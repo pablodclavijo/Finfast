@@ -1,0 +1,70 @@
+﻿{
+   "CodeGenerationMode": 4,
+   "ContextClassName": "PruebaTecnicaContext",
+   "ContextNamespace": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "finfast_backend",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[Ciudad]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Comuna]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Persona]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Region]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Sexo]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[FormatInt]",
+         "ObjectType": 2
+      },
+      {
+         "Name": "[dbo].[GetRunDigito]",
+         "ObjectType": 2
+      }
+   ],
+   "UiHint": null,
+   "UncountableWords": null,
+   "UseAsyncStoredProcedureCalls": true,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDateOnlyTimeOnly": true,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UsePrefixNavigationNaming": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false
+}

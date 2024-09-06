@@ -1,0 +1,27 @@
+.App {
+  margin: 20px;
+  justify-content: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+#dialog{
+  overflow-y: scroll;
+}
+
+.MuiGrid-item{
+  padding-top: 10px;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type=number] {
+  -moz-appearance: textfield;
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\finfast-backend.props" />
+</Project>
